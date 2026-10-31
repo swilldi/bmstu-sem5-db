@@ -1,0 +1,1 @@
+/workspace/lab-04/00_setup_extension.sql
